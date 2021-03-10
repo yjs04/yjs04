@@ -8,6 +8,7 @@
   * 최근 node js공부를 시작했습니다.
 - UI / UX 디자인을 공부하는 중입니다.
 - email : yjsss04@kakao.com
+- velog : https://velog.io/@yjs
 
 ***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjs04%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
