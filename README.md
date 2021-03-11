@@ -5,7 +5,6 @@
 - 현재 전공심화동아리에서 활동을 하고있습니다.
 - 웹 프로그래밍을 주로 하는 사람입니다.
   * 주로 html, css, javascript 를 사용합니다.
-  * 최근 node js공부를 시작했습니다.
 - UI / UX 디자인을 공부하는 중입니다.
 - email : yjsss04@kakao.com
 - velog : https://velog.io/@yjs
